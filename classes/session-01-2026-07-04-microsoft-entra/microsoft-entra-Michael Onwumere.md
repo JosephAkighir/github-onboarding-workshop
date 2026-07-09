@@ -1,9 +1,10 @@
-Cloud Security & AI Bootcamp – Session Report
-Date	Saturday, 4 July 2026
-Mentor	Emmanuel Itoje / Uchechukwu Azunna
-Moderator	Amos Adereti
-Microsoft Learn	https://learn.microsoft.com/en-us/training/paths/secure-access-resources-entra/
-Modules Covered	Secure access to resources using Microsoft Entra
+** Cloud Security & AI Bootcamp – Session Report
+Date :	Saturday, 4 July 2026
+Mentor :	Emmanuel Itoje / Uchechukwu Azunna
+Moderator :	Amos Adereti
+Microsoft Learn resources :	https://learn.microsoft.com/en-us/training/paths/secure-access-resources-entra/
+Modules Covered :	Secure access to resources using Microsoft Entra **
+
 About This Session
 
 This session focused on securing access to organizational resources using Microsoft Entra ID. We explored how identity serves as the foundation of cloud security and learned how Microsoft Entra enables organizations to protect users, applications, and resources through strong authentication, Conditional Access policies, and Privileged Identity Management (PIM).
